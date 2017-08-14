@@ -1,4 +1,6 @@
 # UFO controller
+Sub-project for Burning Man's "Ashura Bike" art project.
+
 UFO moves vertically, changing light patterns on every movement.
 
 ## ufo_motor
